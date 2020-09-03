@@ -14,11 +14,11 @@ defaults:
     values:
       image: true
 
-title: Minimalism
-name: minimalism
-description: Minimalism is a jekyll theme for minimalist
+title: baiyang
+name: baiyang
+description: this is my frist page
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/baiyang197/baiyang197.github.io
 rss: true
 
 plugins:
